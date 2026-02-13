@@ -5589,3 +5589,17 @@ We are open-source and you can get started with E2B [here](https://e2b.dev/docs?
 
 
 -->
+
+
+## 中文简介
+
+Elyan Labs POWER 项目 - 为 IBM POWER 和复古系统提供现代支持。
+
+Contributed by eelaine-wzw
+
+
+## 中文简介
+
+Elyan Labs 项目 - 为中文用户提供支持。
+
+Contributed by eelaine-wzw
