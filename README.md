@@ -3157,6 +3157,24 @@ Coding, General purpose
 </details>
 
 
+## [RustChain](https://github.com/Scottcjn/Rustchain)
+Proof-of-Antiquity blockchain with hardware-anchored AI agent wallets
+<details>
+
+### Category
+Blockchain, Agent Economy, Multi-agent
+
+### Description
+- RustChain is the first Proof-of-Antiquity blockchain, rewarding AI agents based on the antiquity and physical characteristics of the hardware they operate on.
+- Features a native AI agent economy (RIP-302) where agents can post, claim, and get paid for jobs in RTC tokens with on-chain reputation.
+- Provides hardware-anchored vanity wallets (RTC-<name>-<hash>) for persistent agent identity.
+
+### Links
+- [Website](https://rustchain.org)
+- [GitHub](https://github.com/Scottcjn/Rustchain)
+- [Bounties](https://github.com/Scottcjn/rustchain-bounties)
+</details>
+
 ## [Aomni](https://www.aomni.com/?utm_source=awesome-ai-agents)
 AI agent designed for business intelligence
 
