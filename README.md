@@ -2384,7 +2384,7 @@ Coding
 ## Description
 - An experimental autonomous agent
 - Model: GPT-4
-- Purpose: Gnerate and compose React components from user stories
+- Purpose: Generate and compose React components from user stories
 - Stack
 	- React
 	- TailwindCSS
@@ -2597,7 +2597,7 @@ Coding, general purpose
 - It is important to say that the performance [varies](https://www.swebench.com/) based on the model used by the agent.
 - The changes and innovations in SWE-agent compared to Devin are:
   - The code in SWE Agent is executed locally via Docker.
-  - It uses “Agent-Computer Interface” (ACI) - constraining the interface makes the agent easier to use for LMs. Only a few commants are allowed: run code, look for code, edit code and submit changes to GitHub.
+  - It uses “Agent-Computer Interface” (ACI) - constraining the interface makes the agent easier to use for LMs. Only a few commands are allowed: run code, look for code, edit code and submit changes to GitHub.
 - Any code the agent writes goes through a syntax check (linter) before being submitted. If the syntax is incorrect, the agent gets feedback and is forced to redo the code.
 - The agent can only read 100 lines of code at a time, rather than the entire file. This makes it easier for the language model to understand the code.
 
@@ -4019,7 +4019,7 @@ Coding Droids for building software end-to-end
 Coding
 
 ### Description
-- In aplha stage
+- In alpha stage
 - It’s not supposed to be just another coding copilots like GitHub Copilot or Codeium, but autonomous agents capable of autonomously building software from end to end
 
 ### Links
@@ -5236,7 +5236,7 @@ Coding, Data analysis
 </details>
 
 ## [TalktoData](https://talktodata.ai/)
-Data discovery, cleaing, analysis & visualization
+Data discovery, cleaning, analysis & visualization
 
 <details>
 
@@ -5418,7 +5418,7 @@ Research, content creation
 
 ### Description
 Wispy is a web-browsing AI assistant that can summarize content, compose content, explain things or create quizzes for topics you are learning
-- Wispy is stil in Beta version
+- Wispy is still in Beta version
 - With Wispy, you can effortlessly transform web content to perfectly suit your unique needs, all without leaving the comfort of your browser
 - Chat-based AI like Llama and GPT-4 are not the only ways to incorporate AI into your life
 - With Wispy, go beyond chatbots with a browser-native AI companion that makes your browsing more delightful, productive, and streamlined!
