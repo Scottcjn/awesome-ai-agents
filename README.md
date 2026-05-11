@@ -1617,7 +1617,7 @@ Research, Science
 - It's also a AI Prompt Storybook. You can use it to manage some AI preset with your team. It support any IDE and language developer. We provide cli to run web and VSCode extension, Jetbrains plugin is coming soon.
 - Private first, all data is local.
 - We support both OpenAI and Anthropic (Claude-2)
-- It support support for multiple languages.
+- It supports multiple languages.
 
 ### Links
 - [Website](https://github.com/nicepkg/gpt-runner)
@@ -1756,7 +1756,7 @@ Plan-Validate-Solve agent for workflow automation
 Productivity, Coding
 
 ### Description
-Lemon agent is a Plan-Validate-Solve (PVS) Agent for accurate, reliable and reproducable workflow automation
+Lemon agent is a Plan-Validate-Solve (PVS) Agent for accurate, reliable and reproducible workflow automation
 - A standalone supervised Plan and Solve Agent specialized on performing read and write operations on various tools like GitHub, HubSpot or Airtable _(ACL 2023 Paper "[Plan-and-Solve Prompting: Improving Zero-Shot Chain-of-Thought Reasoning by Large Language Models](https://arxiv.org/abs/2305.04091)")_
 - **Separation of tasks and human-in-the-loop interactions**: Lemon Agent is currently holding a Planner Agent and a Solver Agent to keep the agents focussed and increase accuracy. We are planning on adding additional agents real soon. In addition, Lemon Agent will ask for approval at relevant workflow steps to make sure the intended actions are executed.
 - **Unlimited configuration options**: Lemon Agent gives you unlimited configuration options (see example here) when defining your workflow. For instance, you can tell Lemon Agent to ask for permission before executing a workflow step or to drop a 🧔‍♀️ dad joke every time the model executes a workflow step.
@@ -4408,7 +4408,7 @@ Coding, Multi-agent, GitHub
 </details>
 
 ## [Instrukt](https://github.com/blob42/Instrukt)
-Terminal env for interacting with with AI agents
+Terminal env for interacting with AI agents
 
 <details>
 
@@ -4707,7 +4707,7 @@ Coding, Productivity, Generating apps, Design, Content creation
 - Makedraft is an AI that generates frontend code based on your instructions. You can then copy the HTML to any project
 - You can generate HTML templates with text prompts or highlight the code you want changed and instruct the AI on what to change
 - Makedraft also generates Javascript, as well as Alpine.js. Vue.js is coming soon
-- Makedraft will be introducing a Showcase for people to see Showcase projects. Makedraft is currently in open beta and is free to use. A Pro plan will be available soon. Users who subscribe to the Pro plan will have have their generated projects set to private by default
+- Makedraft will be introducing a Showcase for people to see Showcase projects. Makedraft is currently in open beta and is free to use. A Pro plan will be available soon. Users who subscribe to the Pro plan will have their generated projects set to private by default
 
 ### Links
 - [Web](https://makedraft.com/)
@@ -5106,7 +5106,7 @@ Productivity, Content creation
 - Generating content
 - Brainstorming ideas
 - Translation
-- Grammer check
+- Grammar check
 - [Roadmap](https://sagahq.canny.io/)
 
 ### Links
