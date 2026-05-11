@@ -1334,7 +1334,7 @@ Coding
 </details>
 
 ## [evo.ninja](https://evo.ninja/)
-AI agent that adapts its persona to achive tasks
+AI agent that adapts its persona to achieve tasks
 
 <details>
 
