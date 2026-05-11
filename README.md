@@ -1614,7 +1614,7 @@ Research, Science
 
 ### Description
 - Conversation with your files which selected by you, no embedding, no vector database!
-- It's also a AI Prompt Storybook. You can use it to manage some AI preset with your team. It support any IDE and language developer. We provide cli to run web and VSCode extension, Jetbrains plugin is coming soon.
+- It's also an AI Prompt Storybook. You can use it to manage some AI preset with your team. It support any IDE and language developer. We provide cli to run web and VSCode extension, Jetbrains plugin is coming soon.
 - Private first, all data is local.
 - We support both OpenAI and Anthropic (Claude-2)
 - It supports multiple languages.
@@ -2748,7 +2748,7 @@ LLM-powered lifelong learning agent in Minecraft
 General purpose
 
 ### Description
-- A LLM-powered embodied lifelong learning agent in Minecraft that continuously explores the world, acquires diverse skills, and makes novel discoveries without human intervention
+- An LLM-powered embodied lifelong learning agent in Minecraft that continuously explores the world, acquires diverse skills, and makes novel discoveries without human intervention
 - Voyager consists of three key components:
 	- 1) an automatic curriculum that maximizes exploration
 	- 2) an ever-growing skill library of executable code for storing and retrieving complex behaviors
