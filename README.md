@@ -1433,7 +1433,7 @@ Engineering platform engineering AI team member
 Coding
 
 ### Description
-- GeniA is able to work along side you on your production enviroment, executing tasks on your behalf in your dev & cloud environments, AWS/k8s/Argo/GitHub etc.
+- GeniA is able to work alongside you on your production environment, executing tasks on your behalf in your dev & cloud environments, AWS/k8s/Argo/GitHub etc.
 - Allows you to enhance the platform by integrating your own tools and APIs.
 - Slack App Bot integration.
 - Supports GPT-3.5 & GPT-4.
