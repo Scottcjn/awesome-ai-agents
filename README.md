@@ -227,7 +227,7 @@ General purpose, Build your own, Multi-agent
 -   **Symbolic Control**: Different from existing frameworks for language agents that only use a simple task description to control the entire multi-agent system over the whole task completion process,  **Agents**  allows users to use an  **SOP (Standard Operation Process)**  that defines subgoals/subtasks for the overall task to customize fine-grained workflows for the language agents.
 
 ### Links
-- Author: [AIWaves Inc.](https:github.com/aiwaves-cn)
+- Author: [AIWaves Inc.](https://github.com/aiwaves-cn)
 - [Paper](https://arxiv.org/pdf/2309.07870.pdf)
 - [GitHub Repository](https://github.com/aiwaves-cn/agents)
 - [Documentation](https://agents-readthedocsio.readthedocs.io/en/latest/index.html)
