@@ -1228,7 +1228,6 @@ Open-source Devin alternative
 
 <details>
 
-![Image]()
 ### Category
 Coding, general purpose
 
@@ -2705,7 +2704,7 @@ Multi-agent, GUI Agent
 
 ### Links
 - [GitHub](https://github.com/microsoft/UFO)
-- [Web]()
+- [Web](https://microsoft.github.io/UFO/)
 - [Paper](https://arxiv.org/abs/2402.07939)
 
 </details>
